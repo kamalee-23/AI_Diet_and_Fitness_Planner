@@ -76,13 +76,13 @@ venv\Scripts\activate
 pip install streamlit pandas numpy
 2️⃣ Run the app
 streamlit run app.py
-
+---
 🧪 Technologies Used
 Python
 Streamlit
 Pandas
 NumPy
-
+---
 ## 📸 Application Screenshots
 
 ### 🏠 Home Page
@@ -93,15 +93,16 @@ NumPy
 
 ### 🏋️ Workout Plan Output
 ![Workout Plan](screenshots/pg3.jpeg)
-![Workout Plan](screenshots/pg4.jpegjpeg)
+![Workout Plan](screenshots/pg4.jpeg)
 
 ### ℹ️ Description Output
-![Description](screenshots/pg5.jpegjpeg)
+![Description](screenshots/pg5.jpeg)
 
+---
 ⚠️ Disclaimer
 This application is for educational purposes only.
 Please consult a certified fitness or medical professional before following any plan.
-
+---
 👨‍🎓 Project Info
 Academic Project – AI / ML
 Designed for students and beginners 2learning applied AI.
