@@ -65,7 +65,7 @@ AI_Fitness_Diet_Planner/
 │
 ├── .gitignore
 └── README.md
-
+```
 
 ---
 
