@@ -81,10 +81,10 @@ streamlit run app.py
 
 
 ## 🧪 Technologies Used
-Python
-Streamlit
-Pandas
-NumPy
+-Python
+-Streamlit
+-Pandas
+-NumPy
 
 
 ---
