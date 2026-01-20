@@ -74,15 +74,22 @@ AI_Fitness_Diet_Planner/
 python -m venv venv
 venv\Scripts\activate
 pip install streamlit pandas numpy
-2️⃣ Run the app
+### 2️⃣ Run the app
 streamlit run app.py
+
 ---
-🧪 Technologies Used
+
+
+## 🧪 Technologies Used
 Python
 Streamlit
 Pandas
 NumPy
+
+
 ---
+
+
 ## 📸 Application Screenshots
 
 ### 🏠 Home Page
@@ -99,10 +106,16 @@ NumPy
 ![Description](screenshots/pg5.jpeg)
 
 ---
+
+
 ⚠️ Disclaimer
 This application is for educational purposes only.
 Please consult a certified fitness or medical professional before following any plan.
+
+
 ---
+
+
 👨‍🎓 Project Info
 Academic Project – AI / ML
 Designed for students and beginners 2learning applied AI.
