@@ -1,0 +1,206 @@
+food_name,category,calories,protein,carbs,fat,iron,vitamin_c
+"Apple, candied",Apples,134.0,1.34,29.61,2.15,0.12,3.6
+"Apple, raw",Apples,61.0,0.17,14.8,0.15,0.03,4.6
+"Apple, dried",Dried fruits,243.0,0.93,65.89,0.32,1.4,3.9
+"Crisp, apple",Cakes and pies,215.0,2.81,30.18,9.59,1.0,0.6
+"Apple, baked",Apples,113.0,0.32,22.7,3.08,0.19,3.9
+Apple cider,Apple juice,46.0,0.1,11.3,0.13,0.12,0.9
+"Cobbler, apple",Cakes and pies,217.0,2.05,33.56,8.66,0.98,0.6
+"Croissants, apple",Baked Products,1060.0,7.4,37.1,8.7,1.1,0.5
+"Pie, apple",Cakes and pies,296.0,2.7,37.55,15.28,1.23,0.5
+"Strudel, apple",Cakes and pies,281.0,1.96,37.18,14.08,0.3,0.5
+Apple pie filling,Apples,100.0,0.1,26.1,0.1,0.29,1.7
+"Apple juice, 100%",Apple juice,48.0,0.09,11.34,0.25,0.06,38.6
+Apple salad with dressing,Other fruits and fruit salads,180.0,1.45,12.2,14.24,0.28,3.4
+"Cake or cupcake, apple",Cakes and pies,376.0,2.41,52.52,17.5,0.9,0.2
+"Fruit butters, apple",Sweets,173.0,0.39,42.5,0.3,0.31,0.6
+"Rose-apples, raw",Fruits and Fruit Juices,105.0,0.6,5.7,0.3,0.07,22.3
+"Carrots, raw, salad with apples","Coleslaw, non-lettuce salads",181.0,0.85,8.59,16.02,0.16,6.4
+"Banana, baked",Bananas,161.0,0.82,32.43,3.21,0.06,10.4
+"Banana, raw",Bananas,97.0,0.74,22.71,0.28,0.0,12.0
+Banana chips,Dried fruits,519.0,2.3,58.4,33.6,1.25,6.3
+Banana nectar,Fruit drinks,74.0,0.26,18.01,0.13,0.0,4.3
+Banana pudding,Pudding,160.0,2.57,28.0,4.26,0.42,3.2
+Banana split,Ice cream and frozen dairy desserts,199.0,2.42,32.59,6.88,0.17,4.5
+"Bananas, raw",Fruits and Fruit Juices,371.0,1.09,22.8,0.33,0.26,8.7
+"Bananas, overripe, raw",Fruits and Fruit Juices,85.0,0.73,20.1,0.22,,9.7
+"Cake or cupcake, banana",Cakes and pies,379.0,2.47,53.07,17.51,0.88,1.0
+"Melon, banana (Navajo)",American Indian/Alaska Native Foods,90.0,0.84,4.06,0.2,0.21,8.1
+"Pepper, banana, raw",Vegetables and Vegetable Products,27.0,1.66,5.35,0.45,0.46,82.7
+"Peppers, banana, raw",Other vegetables and combinations,27.0,1.66,5.35,0.45,0.46,82.7
+"Pie, banana cream",Cakes and pies,284.0,2.42,32.35,16.17,0.6,0.8
+"Snacks, banana chips",Snacks,519.0,2.3,58.4,33.6,1.25,6.3
+"Orange, raw",Citrus fruits,50.0,0.92,11.78,0.14,0.22,56.2
+"Marmalade, orange",Sweets,246.0,0.3,66.3,0.0,0.15,4.8
+Orange Blossom,Liquor and cocktails,98.0,0.57,9.32,0.26,0.06,21.2
+Orange chicken,Stir-fry and soy-based sauce mixtures,262.0,14.46,22.46,12.68,0.94,0.9
+"Sherbet, orange",Sweets,144.0,1.1,30.4,2.0,0.14,2.3
+"Orange, canned, NFS",Citrus fruits,46.0,0.6,11.82,0.04,0.26,33.3
+"Beverages, carbonated, orange",Beverages,201.0,0.0,12.3,0.0,0.06,0.0
+"Orange peel, raw",Fruits and Fruit Juices,405.0,1.5,25.0,0.2,0.8,136.0
+"Orange, canned, in syrup",Citrus fruits,55.0,0.59,14.07,0.04,0.26,32.5
+"Oranges, raw, Florida",Fruits and Fruit Juices,46.0,0.7,11.5,0.21,0.09,45.0
+"Oranges, raw, navels",Fruits and Fruit Juices,47.0,0.91,11.8,0.15,0.33,59.1
+"Oranges, raw, with peel",Fruits and Fruit Juices,262.0,1.3,15.5,0.3,0.8,71.0
+"Tomatoes, orange, raw",Vegetables and Vegetable Products,67.0,1.16,3.18,0.19,0.47,16.0
+"Grapes, raw",Grapes,83.0,0.9,19.4,0.2,0.18,3.2
+"Grape juice, 100%",Other fruit juice,66.0,0.18,15.73,0.28,0.08,50.4
+"Grape leaves, canned",Vegetables and Vegetable Products,69.0,4.27,11.7,1.97,2.98,11.3
+"Grape leaves, raw",Vegetables and Vegetable Products,390.0,5.6,17.3,2.12,2.63,11.1
+"Grapes, muscadine, raw",Fruits and Fruit Juices,238.0,0.81,13.9,0.47,0.26,6.5
+"Tomatoes, grape, raw",Vegetables and Vegetable Products,27.0,0.83,5.51,0.63,0.33,27.2
+"Beverages, carbonated, grape soda",Beverages,180.0,0.0,11.2,0.0,0.08,0.0
+"Beverages, grape drink, canned",Beverages,61.0,0.0,15.7,0.0,0.07,31.4
+"Grape juice drink, light",Fruit drinks,23.0,0.06,5.51,0.1,0.03,17.6
+Grape leaves stuffed with rice,Rice mixed dishes,168.0,2.28,13.88,11.95,1.25,5.6
+"Beverages, grape juice drink, canned",Beverages,237.0,0.0,14.6,0.0,0.13,26.5
+"Beverages, OCEAN SPRAY, Cran Grape",Beverages,224.0,0.21,13.2,0.0,0.04,28.1
+"Grape juice, 100%, with calcium added",Other fruit juice,62.0,0.37,14.77,0.13,0.25,25.0
+Stuffed grape leaves with beef and rice,Meat mixed dishes,228.0,8.15,11.3,17.03,1.91,9.7
+Stuffed grape leaves with lamb and rice,Meat mixed dishes,271.0,8.17,11.89,21.52,1.83,8.0
+"Mango, raw",Mango and papaya,60.0,0.82,14.98,0.38,0.16,36.4
+"Mango, canned",Mango and papaya,65.0,0.62,16.22,0.3,0.12,21.8
+"Mango, frozen",Mango and papaya,60.0,0.82,14.98,0.38,0.16,36.4
+Mango nectar,Fruit drinks,51.0,0.11,13.12,0.06,0.36,15.2
+"Mango, dried",Dried fruits,319.0,2.45,78.58,1.18,0.23,42.3
+"Mangos, raw",Fruits and Fruit Juices,60.0,0.82,15.0,0.38,0.16,36.4
+"Mango nectar, canned",Fruits and Fruit Juices,51.0,0.11,13.1,0.06,0.36,15.2
+"Mango, dried, sweetened",Fruits and Fruit Juices,1340.0,2.45,78.6,1.18,0.23,42.3
+"Beverages, V8 SPLASH Smoothies, Peach Mango",Beverages,37.0,1.22,7.76,0.0,0.15,24.5
+"Yogurt, Greek, 2% fat, mango, CHOBANI",Dairy and Egg Products,93.0,7.64,11.8,1.69,0.03,0.0
+"Beverages, V8 SPLASH Juice Drinks, Mango Peach",Beverages,33.0,0.0,8.23,0.0,,24.7
+"Beverages, V8 V-FUSION Juices, Peach Mango",Beverages,49.0,0.41,11.4,0.0,0.15,24.4
+"Fruit juice smoothie, NAKED JUICE, MIGHTY MANGO",Fruits and Fruit Juices,262.0,0.42,15.0,0.0,0.15,2.5
+"Salsa, red, homemade",Tomato-based condiments,34.0,1.44,6.74,0.19,0.42,1.9
+"Pear, raw",Pears,59.0,0.37,15.18,0.15,0.18,4.3
+Pear nectar,Fruit drinks,60.0,0.11,15.76,0.01,0.26,1.1
+"Pear, dried",Dried fruits,262.0,1.87,69.7,0.63,2.1,7.0
+"Pears, raw",Fruits and Fruit Juices,57.0,0.36,15.2,0.14,0.18,4.3
+"Pear, Asian, raw",Pears,42.0,0.5,10.65,0.23,0.0,3.8
+"Pear, canned, in syrup",Pears,59.0,0.18,15.15,0.05,0.2,0.9
+"Pear, canned, NFS",Pears,52.0,0.2,13.47,0.06,0.25,1.0
+"Pears, asian, raw",Fruits and Fruit Juices,176.0,0.5,10.6,0.23,0.0,3.8
+"Pears, raw, bartlett",Fruits and Fruit Juices,238.0,0.38,15.1,0.16,0.17,4.4
+"Prickly pears, raw",Fruits and Fruit Juices,172.0,0.73,9.57,0.51,0.3,14.0
+"Pear, canned, juice pack",Pears,45.0,0.23,11.79,0.07,0.29,1.1
+"Pears, dried, sulfured, uncooked",Fruits and Fruit Juices,1100.0,1.87,69.7,0.63,2.1,7.0
+"Pears, raw, red anjou",Fruits and Fruit Juices,62.0,0.33,14.9,0.14,0.19,5.2
+"Strawberries, raw",Strawberries,36.0,0.64,7.96,0.22,0.26,59.6
+"Strawberries, canned",Strawberries,92.0,0.56,23.53,0.26,0.49,31.7
+"Strawberries, frozen",Strawberries,35.0,0.43,9.13,0.11,0.75,41.2
+"Pie, strawberry",Cakes and pies,289.0,2.88,44.22,11.6,1.37,15.8
+"Toppings, strawberry",Sweets,1060.0,0.2,66.3,0.1,0.28,13.7
+"Cake or cupcake, strawberry",Cakes and pies,326.0,2.22,50.25,12.89,0.87,3.3
+"Cake, strawberry shortcake",Cakes and pies,214.0,3.31,40.09,4.73,1.6,12.4
+"Guavas, strawberry, raw",Fruits and Fruit Juices,289.0,0.58,17.4,0.6,0.22,37.0
+"Ice creams, strawberry",Sweets,803.0,3.2,27.6,8.4,0.21,7.7
+"McDONALD'S, Strawberry Sundae",Fast Foods,158.0,3.19,28.1,3.95,0.1,1.5
+Strawberry drink syrup,"Jams, syrups, toppings",261.0,0.0,65.1,0.02,0.03,0.0
+"Strawberry juice, 100%",Other fruit juice,23.0,0.42,5.17,0.14,0.17,38.7
+"Strawberry milk, NFS","Flavored milk, reduced fat",65.0,3.2,8.54,2.06,0.02,0.1
+"Strawberry milk, whole","Flavored milk, whole",86.0,3.03,11.79,2.97,0.03,0.0
+"Fast foods, sundae, strawberry",Fast Foods,732.0,4.09,29.2,5.13,0.21,1.3
+"Kefir, lowfat, strawberry, LIFEWAY",Dairy and Egg Products,62.0,3.39,10.2,0.9,0.04,1.5
+SILK Strawberry soy yogurt,Legumes and Legume Products,94.0,2.35,18.2,1.18,0.64,17.6
+"Strawberries, frozen, sweetened, sliced",Fruits and Fruit Juices,402.0,0.53,25.9,0.13,0.59,41.4
+"Blueberries, raw",Blueberries and other berries,64.0,0.7,14.57,0.31,0.34,8.1
+"Blueberries, frozen",Blueberries and other berries,51.0,0.42,12.17,0.64,0.18,2.5
+"Blueberries, dried",Dried fruits,317.0,2.5,80.0,2.5,0.9,23.8
+Blueberry juice,Other fruit juice,42.0,0.46,9.47,0.2,0.22,5.3
+Blueberry syrup,"Jams, syrups, toppings",341.0,0.0,85.13,0.0,0.04,1.6
+"Pie, blueberry",Cakes and pies,300.0,2.82,37.95,15.52,1.21,1.1
+"Blueberries, dried, sweetened",Fruits and Fruit Juices,1330.0,2.5,80.0,2.5,0.9,23.8
+"Blueberries, frozen, sweetened",Fruits and Fruit Juices,355.0,0.4,22.0,0.13,0.39,1.0
+Blueberry pie filling,"Jams, syrups, toppings",181.0,0.41,44.38,0.2,0.8,0.7
+"Muffins, blueberry, toaster-type",Baked Products,1310.0,4.6,53.3,9.5,0.51,0.0
+"Pie fillings, blueberry, canned",Sweets,757.0,0.41,44.4,0.2,0.8,0.7
+"Pie, blueberry, commercially prepared",Baked Products,971.0,1.8,34.9,10.0,0.3,2.7
+SILK Blueberry soy yogurt,Legumes and Legume Products,88.0,2.35,17.1,1.18,0.64,17.6
+"Yogurt, Greek, Blueberry, CHOBANI",Dairy and Egg Products,82.0,7.23,12.8,0.24,0.15,0.3
+Potato patty,French fries and other fried white potatoes,171.0,3.89,13.49,11.32,0.75,0.5
+"Soup, potato","Soups, cream-based",90.0,1.51,10.53,4.71,0.34,7.1
+Potato pancake,Mashed potatoes and white potato mixtures,196.0,4.47,20.64,10.8,1.3,15.6
+Stewed potatoes,Mashed potatoes and white potato mixtures,103.0,1.99,16.26,3.39,0.38,15.1
+"Potato, NFS","White potatoes, baked or boiled",126.0,1.87,20.45,4.25,0.34,12.1
+"Bread, potato",Baked Products,1120.0,12.5,47.1,3.13,2.25,0.0
+"Gnocchi, potato","Pasta mixed dishes, excludes macaroni and cheese",135.0,2.44,17.2,6.33,0.83,1.9
+Potato flour,Vegetables and Vegetable Products,357.0,6.9,83.1,0.34,1.38,3.8
+Potato pancakes,Vegetables and Vegetable Products,268.0,6.08,27.8,14.8,1.67,27.6
+"Soup, potato with meat","Soups, cream-based",109.0,3.78,8.81,6.43,0.48,5.5
+"Potato tots, NFS",French fries and other fried white potatoes,237.0,1.9,24.4,15.46,0.47,6.4
+"Potato tots, school",French fries and other fried white potatoes,166.0,2.02,19.34,9.16,0.66,10.1
+Sweet potato tots,Fried vegetables,191.0,2.26,37.3,9.35,0.81,7.5
+"Potato, boiled, NFS","White potatoes, baked or boiled",126.0,1.87,20.45,4.25,0.34,12.1
+"Potato chips, NFS",Potato chips,532.0,6.39,53.83,33.98,1.28,21.6
+"Potato chips, plain",Potato chips,532.0,6.39,53.83,33.98,1.28,21.6
+"Potato chips, unsalted",Potato chips,537.0,6.25,59.66,30.3,1.19,22.6
+"Potato sticks, flavored",Potato chips,517.0,6.63,52.77,34.06,2.25,46.8
+"Bread, sweet potato",Yeast breads,241.0,8.64,45.38,2.87,3.14,4.1
+"Pie, sweet potato",Cakes and pies,269.0,4.96,41.08,9.75,1.06,10.3
+Sweet potato chips,"Tortilla, corn, other chips",529.0,2.92,56.54,32.19,2.11,0.0
+Sweet potato paste,"Jams, syrups, toppings",305.0,0.49,75.14,0.34,0.16,3.9
+"Sweet potato, candied",Other red and orange vegetables,187.0,1.18,37.69,3.48,0.31,9.3
+"Sweet potato, NFS",Other red and orange vegetables,115.0,1.58,17.14,4.53,0.4,12.4
+"Sweet potato tots, school",Fried vegetables,192.0,2.27,37.45,9.39,0.81,7.5
+"Sweet potato, casserole or mashed",Other red and orange vegetables,99.0,1.89,17.22,2.56,0.34,10.4
+"Bread, sweet potato, toasted",Yeast breads,265.0,9.5,49.87,3.15,3.45,3.8
+"Sweet potato fries, frozen",Fried vegetables,192.0,2.27,37.45,9.39,0.81,7.5
+"Sweet potato fries, NFS",Fried vegetables,192.0,2.27,37.45,9.39,0.81,7.5
+"Sweet potato fries, school",Fried vegetables,192.0,2.27,37.45,9.39,0.81,7.5
+"Sweet potato leaves, raw",Vegetables and Vegetable Products,175.0,2.49,8.82,0.51,0.97,11.0
+"Sweet potato, canned, mashed",Vegetables and Vegetable Products,101.0,1.98,23.2,0.2,1.33,5.2
+"Sweet potato, cooked, as ingredient",Not included in a food category,82.0,1.65,18.05,0.4,0.42,13.1
+"Tomatoes, raw",Tomatoes,20.0,0.82,4.04,0.31,0.22,16.3
+Guacamole with tomatoes,"Dips, gravies, other sauces",145.0,1.87,8.09,13.09,0.52,10.5
+"Soup, tomato","Soups, broth-based",19.0,0.65,3.64,0.41,0.44,5.9
+"Tomatoes, scalloped",Vegetable dishes,110.0,2.7,14.1,4.97,0.89,12.2
+"Tomato products, canned, sauce, with tomato tidbits",Vegetables and Vegetable Products,134.0,1.32,7.09,0.39,0.68,21.5
+Sun-dried tomatoes,Tomatoes,258.0,14.11,55.76,2.97,9.09,39.2
+"Tomatoes, red, ripe, canned, packed in tomato juice",Vegetables and Vegetable Products,16.0,0.79,3.47,0.25,0.57,12.6
+Fried green tomatoes,Fried vegetables,216.0,3.68,21.78,12.84,1.64,6.2
+Tomato juice cocktail,Vegetable juice,22.0,0.93,3.87,0.31,0.28,54.3
+"Rice, white, with tomatoes and/or tomato-based sauce, fat added",Rice mixed dishes,107.0,2.0,19.41,2.18,0.97,4.1
+"Tomatoes, canned, cooked",Tomatoes,43.0,0.82,3.23,3.04,0.56,12.2
+"Tomatoes, fresh, cooked",Tomatoes,50.0,1.08,4.71,3.42,0.33,15.8
+Bacon and tomato dressing,Salad dressings and vegetable oils,326.0,1.8,2.0,35.0,0.27,8.8
+"Beans and rice, with tomatoes","Bean, pea, legume dishes",137.0,4.7,21.9,3.46,1.46,1.5
+Pork with chili and tomatoes,Meat mixed dishes,95.0,11.64,2.68,3.99,0.58,16.7
+"Soup, cream of tomato","Soups, cream-based",70.0,1.21,6.39,4.68,0.6,6.0
+"Soup, tomato, canned","Soups, broth-based",34.0,0.63,7.65,0.33,0.44,2.8
+Stewed potatoes with tomatoes,Mashed potatoes and white potato mixtures,87.0,1.71,12.89,3.29,0.36,15.1
+"Onions, raw",Onions,38.0,0.86,8.46,0.08,0.24,8.2
+"Bread, onion",Yeast breads,238.0,8.81,44.32,2.95,3.11,0.9
+"Onions, green, raw",Onions,32.0,1.83,7.34,0.19,1.48,18.8
+"Onions, green, cooked",Onions,63.0,2.09,8.37,3.21,1.69,18.2
+"Onions, pearl, cooked",Onions,50.0,0.7,6.49,2.59,0.33,4.9
+"Onion dip, regular","Dips, gravies, other sauces",346.0,2.15,3.92,35.77,0.1,0.9
+"Onion dip, light","Dips, gravies, other sauces",166.0,2.0,11.87,12.36,0.1,0.9
+"Bread, onion, toasted",Yeast breads,262.0,9.68,48.7,3.24,3.41,0.8
+"DENNY'S, onion rings",Restaurant Foods,385.0,5.29,41.0,22.2,0.74,
+Fried onion rings,Fried vegetables,352.0,4.19,39.94,19.82,0.96,1.5
+Onion flavored rings,"Tortilla, corn, other chips",499.0,7.7,65.1,22.6,3.72,1.8
+"Onions, cooked, as ingredient",Not included in a food category,47.0,1.29,10.99,0.12,0.25,7.4
+"Onions, dehydrated flakes",Vegetables and Vegetable Products,349.0,8.95,83.3,0.46,1.55,75.0
+"Onions, for use on a sandwich",Vegetables on a sandwich,38.0,0.86,8.46,0.08,0.24,8.2
+"Onions, red, raw",Vegetables and Vegetable Products,44.0,0.94,9.93,0.1,0.24,8.1
+"Onions, sweet, raw",Vegetables and Vegetable Products,32.0,0.8,7.55,0.08,0.26,4.8
+"Onions, welsh, raw",Vegetables and Vegetable Products,142.0,1.9,6.5,0.4,1.22,27.0
+"Onions, white, raw",Vegetables and Vegetable Products,35.0,0.89,7.68,0.13,0.15,
+"Onions, yellow, raw",Vegetables and Vegetable Products,38.0,0.83,8.61,0.05,0.28,8.2
+Garlic sauce,"Dips, gravies, other sauces",683.0,1.43,2.87,74.02,0.22,1.0
+"Garlic, cooked",Mustard and other condiments,142.0,6.58,28.03,0.38,1.69,8.0
+"Garlic, raw",Mustard and other condiments,143.0,6.62,28.2,0.38,1.7,10.0
+"Roll, garlic",Rolls and buns,309.0,10.84,51.92,6.44,3.71,0.2
+"Garlic bread, frozen",Baked Products,1460.0,8.36,41.7,16.6,3.05,0.2
+"Garlic bread, NFS",Yeast breads,349.0,8.34,41.64,16.58,3.04,0.2
+"Garlic bread, from frozen",Yeast breads,350.0,8.36,41.72,16.61,3.05,0.2
+"PIZZA HUT, breadstick, parmesan garlic",Fast Foods,1430.0,12.2,44.5,12.9,4.65,
+"Garlic bread, from fast food / restaurant",Yeast breads,349.0,8.34,41.64,16.58,3.04,0.2
+"Garlic bread, with melted cheese, from frozen",Yeast breads,343.0,10.36,36.86,17.1,2.68,0.2
+"Garlic bread, with parmesan cheese, from frozen",Yeast breads,351.0,8.78,41.14,16.83,3.0,0.2
+"Shrimp in garlic sauce, Puerto Rican style",Seafood mixed dishes,281.0,11.56,2.45,24.96,0.41,12.0
+"Garlic bread, with parmesan cheese, from fast food / restaurant",Yeast breads,351.0,8.76,41.06,16.8,2.99,0.2
+"Garlic bread, with melted cheese, from fast food / restaurant",Yeast breads,339.0,11.41,34.21,17.34,2.48,0.2
+"Fast foods, breadstick, soft, prepared with garlic and parmesan cheese",Fast Foods,1430.0,12.2,44.5,12.9,4.65,0.0
+"HORMEL ALWAYS TENDER, Pork Loin Filets, Lemon Garlic-Flavored",Pork Products,492.0,17.8,1.79,4.16,0.6,1.7
+"Abiyuch, raw",Fruits and Fruit Juices,290.0,1.5,17.6,0.1,1.61,54.1
