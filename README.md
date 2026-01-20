@@ -41,20 +41,22 @@ The application generates **custom diet plans and weekly workout routines** base
 
 ## 📂 Project Structure
 
+```text
 AI_Fitness_Diet_Planner/
 │
-├── app.py # Main Streamlit app
+├── app.py                      # Main Streamlit app
 │
 ├── models/
-│ └── bmi_model.py # BMI calculation logic
+│   └── bmi_model.py            # BMI calculation logic
 │
 ├── logic/
-│ ├── diet_planner.py # Diet recommendation logic
-│ └── workout_split_planner.py # Weekly workout split logic
+│   ├── diet_planner.py         # Diet recommendation logic
+│   └── workout_split_planner.py# Weekly workout split logic
 │
 ├── datasets/
-│ └── indian_food.csv # Nutrition dataset
-├── screenshots/        
+│   └── indian_food.csv         # Nutrition dataset
+│
+├── screenshots/
 │   ├── pg1.jpeg
 │   ├── pg2.jpeg
 │   ├── pg3.jpeg
