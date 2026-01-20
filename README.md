@@ -70,7 +70,7 @@ AI_Fitness_Diet_Planner/
 ## ▶️ How to Run the App
 
 ### 1️⃣ Open terminal in project folder
-```bash
+
 python -m venv venv
 venv\Scripts\activate
 pip install streamlit pandas numpy
