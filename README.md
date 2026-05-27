@@ -87,6 +87,7 @@ streamlit run app.py
 -Streamlit
 -Pandas
 -NumPy
+--vscode
 
 
 ---
