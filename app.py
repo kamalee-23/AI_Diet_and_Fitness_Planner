@@ -100,4 +100,4 @@ if st.button("Generate My Plan"):
     st.write("- Based on focus area")
     st.write("- Based on available time")
 
-st.caption("⚠️ Educational purpose only. Consult a professional if needed.")
+st.caption("⚠️ Educational purpose only. Follow a balanced lifestyle and consult a professional when needed.")
