@@ -13,8 +13,21 @@ st.set_page_config(
 st.title("🥗 AI Diet and Fitness Planner")
 
 # -------- INPUTS --------
-height = st.number_input("Height (cm)", 100, 220)
-weight = st.number_input("Weight (kg)", 30, 200)
+height = st.number_input(
+    "Height (cm)",
+    min_value=100.0,
+    max_value=220.0,
+    value=165.0,
+    step=1.0
+)
+
+weight = st.number_input(
+    "Weight (kg)",
+    min_value=30.0,
+    max_value=200.0,
+    value=60.0,
+    step=1.0
+)
 
 goal = st.selectbox("Fitness Goal", ["Weight Loss", "Maintain", "Weight Gain"])
 focus = st.selectbox(
@@ -23,12 +36,16 @@ focus = st.selectbox(
 )
 free_time = st.slider("Daily Free Time (minutes)", 10, 120, 30)
 
+
 # -------- GENERATE --------
 if st.button("Generate My Plan"):
 
+    if height <= 0 or weight <= 0:
+        st.error("Please enter valid height and weight values.")
+        st.stop()
+
     bmi = calculate_bmi(weight, height)
     category = bmi_category(bmi)
-
     st.success(f"BMI: {bmi} ({category})")
 
     # -------- BMI FEEDBACK --------
