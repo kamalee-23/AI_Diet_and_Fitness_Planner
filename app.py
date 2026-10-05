@@ -50,11 +50,13 @@ if st.button("Generate My Plan"):
 
     # -------- BMI FEEDBACK --------
     if category == "Normal":
-        st.success("You are in a healthy BMI range")
-    elif category in ["Overweight", "Obese"]:
-        st.warning("Focus on fat reduction and consistency")
+        st.success("You are in a healthy BMI range. Maintain your current habits and stay consistent.")
+    elif category == "Overweight":
+        st.warning("Your BMI is above the normal range. Focus on balanced nutrition, regular activity, and consistency.")
+    elif category == "Obese":
+        st.warning("Your BMI is in the obese range. Focus on gradual lifestyle improvements and consider professional guidance.")
     else:
-        st.info("Gradual strength building recommended")
+        st.info("Your BMI is below the normal range. Focus on balanced nutrition and gradual strength building.")
 
     # -------- PLAN SUMMARY --------
     st.markdown("### 📌 Your Plan Summary")
